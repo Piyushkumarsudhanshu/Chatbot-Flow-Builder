@@ -16,8 +16,8 @@ Built as part of the **BiteSpeed Frontend Task**, with focus on:
 
 ## 🌐 Live Demo
 
-👉 **Live App:** [Add Deployment Link]  
-👉 **GitHub Repository:** [Add Repo Link]
+👉 **Live App:** https://flow-weaver-psi.vercel.app/  
+👉 **GitHub Repository:** https://github.com/Piyushkumarsudhanshu/Chatbot-Flow-Builder.git
 
 ---
 
